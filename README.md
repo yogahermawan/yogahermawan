@@ -3,6 +3,10 @@
   <h3>👨‍💻 Software Engineer | Product Owner | Full-Stack Developer</h3>
   
   <p>
+    <img src="https://komarev.com/ghpvc/?username=yogahermawan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  </p>
+
+  <p>
     I am a software engineer with <strong>7+ years of experience</strong> building web products. I bridge the gap between engineering and product perspectives, translating product needs into working software. My experience spans frontend engineering, full-stack development, and Product Ownership.
   </p>
 </div>
@@ -58,6 +62,14 @@
 
 **Bachelor of Computer Science (Informatics Engineering)**  
 *Universitas Teknologi Digital Indonesia (2016 — 2020)*
+
+<br />
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=yogahermawan&theme=radical" alt="GitHub Streak" />
+</p>
 
 <br />
 
