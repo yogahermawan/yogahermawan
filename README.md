@@ -61,14 +61,6 @@
 
 <br />
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yogahermawan&show_icons=true&theme=radical" alt="Yoga's GitHub Stats" />
-</p>
-
-<br />
-
 ### 📫 Connect with me
 
 <p align="left">
